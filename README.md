@@ -11,5 +11,5 @@ Le code source du système multi agent est également fourni et se trouve dans l
 
 # AUTEURS
 
-Ce tutoriel est le fruit d'un travail de groupe
+Ce tutoriel est le fruit d'un travail de groupe.
 Vous trouverez les noms des auteurs dans les fichiers pdf fournis.
